@@ -2,7 +2,7 @@ package com.Array_Java;
 
 import java.util.Scanner;
 
-public class LineaeSearch {
+public class LinearSearch {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
